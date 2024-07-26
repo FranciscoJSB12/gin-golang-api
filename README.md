@@ -1,6 +1,6 @@
 # How to run your project
 
-You need to have `air` installed and previously , after that run:
+You need to have `air` installed, after that run:
 
 ```
 air
